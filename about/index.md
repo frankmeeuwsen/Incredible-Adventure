@@ -15,4 +15,7 @@ Ik help organisaties en merken om zinvol en bewust digitale communicatie in te z
 Bewust omgaan met digitale media zodat je wéét wat je doet, deelt en schrijft. Digitale mediawijsheid kun je het noemen. Ik kan je leren wat de mores is op diverse netwerken en wat de do’s en don’ts zijn.
 Zinvol en bewust liggen heel dicht bij elkaar. De een heeft de ander tot gevolg. Meer bewustzijn creeert een zinvolle vraag. Zingeving in communicatie zorgt voor bewustwording.
 
-[Contact]({{site.url}}/contact){: .btn}
+## Update
+Sinds 1 januari 2016 ben ik werkzaam als Community Architect bij [Triggi](http://triggi.com). Dit betekent dat ik niet meer voor opdrachten beschikbaar ben. Wil je toch weten of iets voor je kan betekenen, neem dan contact met me op.
+
+  {% include social-links.html %}
