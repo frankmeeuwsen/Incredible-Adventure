@@ -1,37 +1,18 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: The Incredible Adventure starts here...
+tags: [About]
+date: 2016-07-09
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
-## Preview
+## Wat is The Incredible Adventure?
+Ik help organisaties en merken om zinvol en bewust digitale communicatie in te zetten. Zinvol, omdat ik te vaak zie dat er maar wat wordt aangerommeld met Facebook pagina’s, nieuwsbrieven en websites. “Want we moeten het er bij doen”. Dat kan beter. Meer geïntegreerd met doelstellingen, campagnes, interne en externe strategie en met de mensen in de organisatie. Niet alleen die leuke stagiair van de media-opleiding. Niet de secretaresse die toevallig zelf een Twitter account heeft.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+> Liever 100 mensen in een organisatie die allen 1% met digitale communicatie bezig zijn dan 1 persoon 100%
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+Bewust omgaan met digitale media zodat je wéét wat je doet, deelt en schrijft. Digitale mediawijsheid kun je het noemen. Ik kan je leren wat de mores is op diverse netwerken en wat de do’s en don’ts zijn.
+Zinvol en bewust liggen heel dicht bij elkaar. De een heeft de ander tot gevolg. Meer bewustzijn creeert een zinvolle vraag. Zingeving in communicatie zorgt voor bewustwording.
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Contact]({{site.url}}/contact){: .btn}
