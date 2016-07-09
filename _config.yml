@@ -1,5 +1,5 @@
 # Site
-title:              The Incredible Adventure starts here...
+title:              'The Incredible Adventure starts here...'
 bio:                'Helpt merken en organisaties om zinvol en bewust met digitale communicatie om te gaan.'
 description:        "The Incredible Adventure starts here...helpt merken en organisaties om zinvol en bewust met digitale communicatie om te gaan."
 reading_time:       true
@@ -34,7 +34,7 @@ disqus_shortname:   frankmeeuwsen
 # if you don't have any of social below, comment the line.
 #google:
   #plus:            #username
-  analytics:  UA-166073-7
+  #analytics:    UA-166073-7
   #verify:
   #ad-client:
   #ad-slot:
