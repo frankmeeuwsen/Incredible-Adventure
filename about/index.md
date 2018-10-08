@@ -16,6 +16,6 @@ Bewust omgaan met digitale media zodat je wéét wat je doet, deelt en schrijft.
 Zinvol en bewust liggen heel dicht bij elkaar. De een heeft de ander tot gevolg. Meer bewustzijn creeert een zinvolle vraag. Zingeving in communicatie zorgt voor bewustwording.
 
 ## Update
-Sinds 1 januari 2016 ben ik werkzaam als Community Architect bij [Triggi](http://triggi.com). Dit betekent dat ik niet meer voor opdrachten beschikbaar ben. Wil je toch weten of iets voor je kan betekenen, neem dan contact met me op.
+Sinds 1 januari 2016 ben ik werkzaam als Community Architect bij [olisto](https://olisto.com). Dit betekent dat ik niet meer voor opdrachten beschikbaar ben. Wil je toch weten of iets voor je kan betekenen, neem dan contact met me op.
 
   {% include social-links.html %}
