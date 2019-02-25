@@ -1,6 +1,6 @@
----
+<!-- ---
 layout: compress
----
+--- -->
 <!DOCTYPE html>
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
@@ -12,30 +12,31 @@ layout: compress
 <body>
     <!-- Header -->
     <header class="header flex" role="banner">
-        <div class="container animated fadeIn">
+        <div class="wrapper animated fadeIn">
             <div class="row">
-                    <a href="{{ site.url }}">
-                        <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
+                <a href="{{ site.url }}">
+                    <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
+                </a>
+                <h3 class="title">
+                    <a class="zoombtn" href="{{ site.url }}">
+                        <p style="font-size:1.2rem;font-weight:300">{{ site.title }}</p>
                     </a>
-                    <h3 class="title">
-                        <a class="zoombtn" href="{{ site.url }}">
-                        	<p style="font-size:1.2rem;font-weight:300">{{ site.title }}</p>
-			            </a>
-                    </h3>
-                    <hr class="hr-line">
-                    <h3 class="title">
-                        <a href="{{ site.url }}">
-                        	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
-			            </a>
-                    </h3>
-                    {% include social-links.html %}
-                  <hr class="hr-line">
-                  <h3 class="title">
-                         <a class="btn zoombtn" href="{{ site.url }}/about">
-                         About
-                         </a>
-                 </h3>
-            </div>
+                </h3>
+                <hr class="hr-line">
+                <h2>Wat is The Incredible Adventure?</h2>
+                <p>Tussen 2009 en 2016 hielp ik organisaties en merken om zinvol en bewust digitale communicatie in te zetten. Zinvol, omdat ik te vaak zie dat er maar wat wordt aangerommeld met social accounts, nieuwsbrieven en websites. “Want we moeten het er bij doen”. Dat kan beter. Meer geïntegreerd met doelstellingen, campagnes, interne en externe strategie en met de mensen in de organisatie. Niet alleen die leuke stagiair van de media-opleiding. Niet de secretaresse die toevallig zelf een Twitter account heeft.
+                </p>
+
+                <!-- <blockquote>Liever 100 mensen in een organisatie die allen 1% met digitale communicatie bezig zijn dan 1 persoon 100%</blockquote>  -->
+
+                <p>Bewust omgaan met digitale media zodat je wéét wat je doet, deelt en schrijft. Digitale mediawijsheid kun je het noemen. Ik kan je leren wat de mores is op diverse netwerken en wat de do’s en don’ts zijn.
+                </p>
+                <p>Zinvol en bewust liggen heel dicht bij elkaar. De een heeft de ander tot gevolg. Meer bewustzijn creeert een zinvolle vraag. Zingeving in communicatie zorgt voor bewustwording.
+                </p>
+                <p>Inmiddels ben ik met diverse andere projecten bezig. Zie een van onderstaande accounts om een idee te krijgen of om contact met me op te nemen.</p>
+                {% include social-links.html %}
+                <hr class="hr-line">
+          </div>
         </div>
     </header>
     {% include scripts.html %}
